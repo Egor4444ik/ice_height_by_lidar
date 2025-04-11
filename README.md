@@ -13,7 +13,7 @@ Ice thickness control with UAS.
 ##### - Application of YOLOv11 model on user data for training and optimization of the system.
 
 <div align="center">
-  <img src="![Output object exemple](https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png)" alt="Output object exemple">
+  <img src="https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png" alt="Output object exemple">
   <p><em>Input object exemple</em></p>
 </div>
 
