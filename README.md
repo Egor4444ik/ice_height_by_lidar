@@ -14,7 +14,7 @@ Ice thickness control with UAS.
 
 <div align="center">
   <img src="https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png" alt="Output object exemple">
-  <p><em>Input object exemple</em></p>
+  <p><em>Output object exemple</em></p>
 </div>
 
 ### Firstly u shood run pip install requirements.
