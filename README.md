@@ -1,10 +1,12 @@
 ### Ice thickness control with UAS.
 ***
 #### Main tasks: - Creation and improvement of computer vision systems for detection and analysis of 3D objects in .obj format by point cloud.
+###### ![Input object exemple](https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/default_im.png)
 ##### - Use of Roboflow platform for visual data management, including collection, annotation and separation of data for training computer vision models.
 ##### - Development of modules based on OpenCV for semantic segmentation of 3D objects and determination of their physical parameters.
 ##### - Development of functionality for visualization of semantic segmentation of objects.
 ##### - Application of YOLOv11 model on user data for training and optimization of the system.
+###### ![Output object exemple](https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png)
 
 ### Firstly u shood run pip install requirements.
 ***
@@ -20,10 +22,12 @@ If you want look segmented image, run `python -m show_seg_im`
 ### Контроль толщины льда с БАС.
 ***
 ####  Основные задачи: - Создание и улучшение систем компьютерного зрения для обнаружения и анализа 3D объектов в формате .obj по облаку точек.
+###### ![Пример входного объекта](https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/default_im.png)
 ##### - Использование платформы Roboflow для управления визуальными данными, включая сбор, аннотацию и разделение данных для обучения моделей компьютерного зрения.
 ##### - Разработка модулей на базе OpenCV для семантической сегментации 3D объектов и определение их физических параметров.
 ##### - Разработка функционала для визуализации семантической сегментации объектов.
 ##### - Применение модели YOLOv11 на пользовательских данных для обучения и оптимизации системы.
+###### ![Пример выходного объекта](https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png)
 
 ### 1 шаг: запустить в консоли pip install requirements.
 ***
