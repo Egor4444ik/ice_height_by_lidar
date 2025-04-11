@@ -17,11 +17,11 @@ Ice thickness control with UAS.
   <p><em>image "Output object exemple"</em></p>
 </div>
 
-### Firstly u shood run pip install requirements.
+#### Firstly u shood run pip install requirements.
 ***
-### Secondly change settings as you need.
+#### Secondly change settings as you need.
 ***
-### Than run:
+#### Than run:
   1) `python -m lidar_metgod`
   2) `python -m segmentation`
   3) `python -m coloring_obj`
@@ -46,11 +46,11 @@ If you want look segmented image, run `python -m show_seg_im`
   <p><em>рисунок "Пример выходного объекта"</em></p>
 </div>
 
-### 1 шаг: запустить в консоли pip install requirements.
+#### 1 шаг: запустить в консоли pip install requirements.
 ***
-### Во-вторых: поменять настройки settings.py, если это необходимо под Вашу задачу.
+#### Во-вторых: поменять настройки в settings.py, если это необходимо под Вашу задачу.
 ***
-### Затем запустите:
+#### Затем запустите:
   1) `python -m lidar_metgod`
   2) `python -m segmentation`
   3) `python -m coloring_obj`
