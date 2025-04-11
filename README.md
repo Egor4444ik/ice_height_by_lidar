@@ -4,7 +4,7 @@ Ice thickness control with UAS.
 
 <div align="center">
   <img src="https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/default_im.png" alt="Пример входного объекта">
-  <p><em>Input object exemple</em></p>
+  <p><em>image "Input object exemple"</em></p>
 </div>
 
 ##### - Use of Roboflow platform for visual data management, including collection, annotation and separation of data for training computer vision models.
@@ -14,7 +14,7 @@ Ice thickness control with UAS.
 
 <div align="center">
   <img src="https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png" alt="Output object exemple">
-  <p><em>Output object exemple</em></p>
+  <p><em>image "Output object exemple"</em></p>
 </div>
 
 ### Firstly u shood run pip install requirements.
@@ -34,7 +34,7 @@ If you want look segmented image, run `python -m show_seg_im`
 
 <div align="center">
   <img src="https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/default_im.png" alt="Пример входного объекта">
-  <p><em>Пример входного объекта</em></p>
+  <p><em>рисунок "Пример входного объекта"</em></p>
 </div>
 
 ##### - Использование платформы Roboflow для управления визуальными данными, включая сбор, аннотацию и разделение данных для обучения моделей компьютерного зрения.
@@ -43,7 +43,7 @@ If you want look segmented image, run `python -m show_seg_im`
 ##### - Применение модели YOLOv11 на пользовательских данных для обучения и оптимизации системы.
 <div align="center">
   <img src="https://github.com/Egor4444ik/ice_height_by_lidar/blob/main/ice_images/seg_im.png" alt="Пример выходного объекта">
-  <p><em>Пример выходного объекта</em></p>
+  <p><em>рисунок "Пример выходного объекта"</em></p>
 </div>
 
 ### 1 шаг: запустить в консоли pip install requirements.
